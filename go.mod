@@ -1,1 +1,1 @@
-module github.com/AndrewBurian/eventsource/v2
+module github.com/AndrewBurian/eventsource
